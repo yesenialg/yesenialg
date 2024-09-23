@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻I'm a software developer with a degree in systems engineering.<br>🔭I'm constantly learning new technologies and tools.<br>🧠What I like the most is the backend, software design and databases.<br>💬You can contact me if you think we can collaborate!
+👩🏻‍💻I'm a software developer with a degree in systems engineering.<br>🪴I'm constantly learning new technologies and tools.<br>❤️What I like the most is the backend, software design and databases.<br>💬You can contact me if you think we can collaborate!
 
 
 ## 🌐 Socials:
